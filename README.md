@@ -1,11 +1,11 @@
 # Fuel-Spill-Fate-and-Transport
 Convection–Diffusion–Decay Modelling
 File:
-- assignment2_2700.py       : Code containing functions for dt, one-step update, and concentration simulation.
+- fuel_spill_and_transport.py       : Code containing functions for dt, one-step update, and concentration simulation.
 
 How to reproduce (Python 3 + numpy + matplotlib):
-1) Import functions from assignment2_2700.py and call run_simulation with the parameters from the brief.
-2) Run python assignment2_2700.py
+1) Import functions from afuel_spill_and_transport.py and call run_simulation with the parameters from the brief.
+2) Run python fuel_spill_and_transport.py
 3) For tasks 5 & 6, number of nodes are defined in lines 99-102 and can be uncommented or commented to determine the variation in the simulation due to the timestep. 
 4) Contour plots and midpoint graphs for initial conditions and non-conservative conditions are 
 
